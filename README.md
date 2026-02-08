@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gklinkmann
 - 👀 I’m interested in developing and deploying things
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently developing frontends with vuejs and vuetify and backends with java, spring-boot, groovy and micronaut
 - 📫 How to reach me juhu@k-oo.de
 
 <!---
